@@ -9,3 +9,4 @@
 
 rootProject.name = 'Learn'
 include('lib')
+include('basics')
